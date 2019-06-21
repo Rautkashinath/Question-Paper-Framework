@@ -1,0 +1,29 @@
+﻿<xml>
+<title> Your HTML title</title>
+<htmlData>
+<![CDATA[
+
+<div class='panel'>a. Answer For a
+   <div class='answer container'>
+       Answer For a
+   </div>
+</div>
+
+<div class='panel'>b. Answer b
+   <div class='answer container'>
+       Answer b
+   </div>
+</div>
+
+<div class='panel'>c. Answer c
+   <div class='answer container'>
+       Answer c
+   </div>
+</div>
+
+<div class='panel'>d. Answer d
+   <div class='answer container'>
+       Answer d
+   </div>
+</div>
+]]></htmlData></xml> 
